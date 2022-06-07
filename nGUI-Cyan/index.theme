@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=nGUI-Cyan
+Comment=nGUI Themes
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=nGUI-Cyan
+GtkTheme=nGUI-Cyan
+IconTheme=nGUI-Cyan
+MetacityTheme=nGUI-Cyan
